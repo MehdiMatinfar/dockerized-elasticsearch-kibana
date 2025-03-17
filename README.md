@@ -13,8 +13,8 @@ Before running this setup, ensure you have:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MehdiMatinfar/dockerized-elasticsearch-kibana
-   cd dockerized-elasticsearch-kibana
+   git clone https://github.com/MehdiMatinfar/dockerized-elasticsearch-kibana && cd dockerized-elasticsearch-kibana
+   
 
 2. Start the services:
    ```bash
