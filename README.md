@@ -13,5 +13,17 @@ Before running this setup, ensure you have:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/MehdiMatinfar/dockerized-elasticsearch-kibana
+   cd dockerized-elasticsearch-kibana
+
+2. Start the services:
+   ```bash
+   docker-compose up -d
+
+3. Access the services:
+
+   Elasticsearch: http://localhost:9200
+
+   Kibana: http://localhost:5601
+
+
